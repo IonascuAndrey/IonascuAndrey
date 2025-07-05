@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ionascu Andrei
 ======================================================================================================================================
 
-Computer Science BS Student
+Data Engineer | Computer Science BS Student
 --------------------------------
 
-I am currently studying Computer Science at University of Bucharest, focusing on schoolwork personal projects. I am focused on learning the more technical side of computer programming.
+I am currently working as a Data Engineer and studying Computer Science at University of Bucharest,. I am focused on learning the more technical side of computer programming.
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [ionascuandrei320@gmail.com](mailto:ionascuandrei320@gmail.com)
