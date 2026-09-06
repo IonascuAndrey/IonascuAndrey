@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer | Computer Science BS Student
 --------------------------------
 
-I am currently working as a Data Engineer and studying Computer Science at University of Bucharest,. I am focused on learning the more technical side of computer programming.
+I am currently working as a Data Engineer and studying Data Science at Uppsala Universitet. I am focused on learning the more technical side of computer programming.
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [ionascuandrei320@gmail.com](mailto:ionascuandrei320@gmail.com)
